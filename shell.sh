@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello_World"
+echo "Hello_ World"
 echo "Per aspera ad Astra"
